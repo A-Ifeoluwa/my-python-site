@@ -20,7 +20,7 @@ https://ifeoluwaweb-e2befnggf2b9fsha.centralus-01.azurewebsites.net/
 
 ## 📸 Screenshot
 
-![MY_web_iMAGE](Screenshot(64).png)
+![MY_web_iMAGE](webimage)
 
 
 ---
