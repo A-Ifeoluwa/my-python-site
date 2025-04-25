@@ -15,9 +15,7 @@ This is a personal learning project where I:
 
 ---
 
-## 🌐 Live Website
-
-[👉 [Visit the live app here](#)  
+## 🌐 Live Website 
 https://ifeoluwaweb-e2befnggf2b9fsha.centralus-01.azurewebsites.net/
 
 ---
@@ -46,3 +44,19 @@ my-webapp/
 └── .github/
     └── workflows/
         └── main.yml      # GitHub Actions workflow for deployment
+
+
+🚀 How to Deploy (High-Level Steps)
+1. Clone this repo or fork it
+
+2. Push to your own GitHub repo
+
+3. Connect repo to Azure Web App (or use Azure Container App)
+
+4. Make sure your files are in correct structure
+
+5. Watch the magic ✨ as your site goes live!
+
+
+🙌 Special Note
+This project was my first hands-on cloud deployment, and it gave me real experience with web hosting, containers, and DevOps workflows!
